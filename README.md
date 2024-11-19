@@ -1,6 +1,3 @@
-# customer-sentiment-analysis
-
-
 # Sentiment Analysis of British Airways Reviews
 
 ### Overview
